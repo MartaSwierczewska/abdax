@@ -28,11 +28,17 @@
 .lni-alarm:before {
   content: "\e903";
 }
+.lni-arrow-up:before {
+  content: "\e918";
+}
 .lni-camera:before {
   content: "\e933";
 }
 .lni-envelope:before {
   content: "\e96a";
+}
+.lni-map:before {
+  content: "\e9b3";
 }
 .lni-phone:before {
   content: "\e9cd";
@@ -43,6 +49,7 @@
 .lni-unlock:before {
   content: "\ea1d";
 }
+
 
 
 
@@ -106,9 +113,7 @@
 .lni-arrow-up-circle:before {
   content: "\e917";
 }
-.lni-arrow-up:before {
-  content: "\e918";
-}
+
 .lni-arrows-horizontal:before {
   content: "\e919";
 }
@@ -567,9 +572,7 @@
 .lni-map-marker:before {
   content: "\e9b2";
 }
-.lni-map:before {
-  content: "\e9b3";
-}
+
 .lni-mastercard:before {
   content: "\e9b4";
 }

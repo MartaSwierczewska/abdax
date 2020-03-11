@@ -85,7 +85,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .section-header {
   color: #fff;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
   text-align: center;
   position: relative;
 }
@@ -380,14 +380,14 @@ button:focus {
 .back-to-top {
   display: none;
   position: fixed;
-  bottom: 18px;
+  bottom: 10px;
   right: 15px;
 }
 
 .back-to-top i {
   display: block;
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   line-height: 36px;
   color: #fff;
   font-size: 14px;
@@ -589,7 +589,7 @@ button:focus {
 }
 
 .collapse.show {
-  background: whitesmoke;
+  background: #fff;
   margin-bottom: 10px;
   -webkit-transition: 0.6s;
   -moz-transition: 0.6s;
@@ -1507,7 +1507,7 @@ footer .menu li a:hover {
 
 #copyright {
   background-color: #ffffff;
-  padding: 20px 0 10px;
+  padding: 20px 0 20px;
   border-top: 1px solid #eaeaea;
   color: #546E7A;
 }
