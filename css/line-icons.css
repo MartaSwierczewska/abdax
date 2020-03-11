@@ -24,18 +24,28 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.lni-add-files:before {
-  content: "\e900";
-}
-.lni-agenda:before {
-  content: "\e901";
-}
-.lni-alarm-clock:before {
-  content: "\e902";
-}
+/*na razie używane*/
 .lni-alarm:before {
   content: "\e903";
 }
+.lni-camera:before {
+  content: "\e933";
+}
+.lni-envelope:before {
+  content: "\e96a";
+}
+.lni-phone:before {
+  content: "\e9cd";
+}
+.lni-target:before {
+  content: "\ea07";
+}
+.lni-unlock:before {
+  content: "\ea1d";
+}
+
+
+
 .lni-amazon:before {
   content: "\e904";
 }
@@ -177,9 +187,7 @@
 .lni-calendar:before {
   content: "\e932";
 }
-.lni-camera:before {
-  content: "\e933";
-}
+
 .lni-car:before {
   content: "\e934";
 }
@@ -342,9 +350,7 @@
 .lni-enter:before {
   content: "\e969";
 }
-.lni-envelope:before {
-  content: "\e96a";
-}
+
 .lni-eraser:before {
   content: "\e96b";
 }
@@ -813,9 +819,7 @@
 .lni-tag:before {
   content: "\ea06";
 }
-.lni-target:before {
-  content: "\ea07";
-}
+
 .lni-teabag:before {
   content: "\ea08";
 }
