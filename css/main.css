@@ -80,7 +80,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
    2.1 Section Title
    ========================================================================== */
 .section {
-  padding: 80px 0;
+  padding: 50px 0;
 }
 
 .section-header {
@@ -522,7 +522,7 @@ button:focus {
 .navbar-expand-md .navbar-nav .nav-link {
   color: #fff;
   font-size: 17px;
-  padding: 5px 0px;
+  padding: 0px 0px;
   margin-left: 20px;
   position: relative;
 }
