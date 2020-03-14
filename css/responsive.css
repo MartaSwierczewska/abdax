@@ -24,7 +24,7 @@
   }
   .navbar-expand-md .navbar-nav .nav-link {
     padding: 12px 5px;
-    font-size: 13px;
+    font-size: 17px;
     margin-left: 15px;
   }
   .mainmenu-area .menu-button {
@@ -134,7 +134,7 @@
     font-size: 16px;
   }
   #carousel-area .carousel-item .carousel-caption h2 {
-    font-size: 22px;
+    font-size: 36px;
   }
   #carousel-area .carousel-item .carousel-caption h4 {
     font-size: 14px;
@@ -269,13 +269,13 @@
     line-height: 30px;
   }
   #carousel-area .carousel-item .carousel-caption {
-    top: 40%;
+    top: 35%;
   }
   #carousel-area .carousel-item .carousel-caption h3 {
     font-size: 13px;
   }
   #carousel-area .carousel-item .carousel-caption h2 {
-    font-size: 18px;
+    font-size: 38px;
   }
   #carousel-area .carousel-item .carousel-caption h4 {
     font-size: 11px;
