@@ -80,7 +80,8 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
    2.1 Section Title
    ========================================================================== */
 .section {
-  padding-top: 80px;
+  padding-top: 200px;
+  margin-top: -115px;
 }
 
 .section-header {
@@ -1206,7 +1207,6 @@ textarea {
 
 #contact {
   background: #ffffff;
-  position: relative;
   overflow: hidden;
 }
 
