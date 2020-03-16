@@ -397,17 +397,22 @@
 <script src="js/contact-form-script.js"></script>
 <script src="js/main.js"></script>
 <script>
-    $(function(){
+    $(function () {
         $('.collapse.navbar-collapse ul li').click(function () {
             $('.collapse.navbar-collapse').removeClass('show');
         });
     });
 </script>
 <script>
-    $(window).click(function(event) {
+    $(window).click(function (event) {
         if ($(event.target).closest('div#navbarCollapse').length === 0) {
             $('.collapse.navbar-collapse').removeClass('show');
         }
+    });
+</script>
+<script>
+    $(window).scroll(function () {
+        $('.collapse.navbar-collapse').removeClass('show');
     });
 </script>
 </body>
