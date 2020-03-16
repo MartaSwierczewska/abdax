@@ -80,8 +80,14 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
    2.1 Section Title
    ========================================================================== */
 .section {
-  padding-top: 200px;
+  padding-top: 190px;
   margin-top: -115px;
+}
+
+.no-selection {
+  -webkit-user-select: none; /* for safari & chrome browsers */
+  -moz-user-select: none; /* for mozilla browsers */
+  -ms-user-select: none; /* for IE10+ */
 }
 
 .section-header {
@@ -1067,6 +1073,8 @@ button:focus {
   font-size: 50px;
   font-weight: 700;
   color: #fff;
+  margin-bottom: 30px;
+  margin-top: -10px;
 }
 
 #carousel-area .carousel-control {

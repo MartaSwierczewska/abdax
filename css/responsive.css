@@ -53,6 +53,8 @@
 
     #carousel-area .carousel-item .carousel-caption h2 {
         font-size: 50px;
+        margin-bottom: 30px;
+        margin-top: -10px;
     }
 
     .call-action .cta-trial h3 {
@@ -295,6 +297,11 @@
         width: 100%;
         padding-left: 30px;
         padding-right: 30px;
+    }
+
+    .section{
+        padding-top: 170px;
+        margin-top: -115px;
     }
 
     #carousel-area .carousel-indicators{
