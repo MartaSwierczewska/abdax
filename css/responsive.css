@@ -133,6 +133,11 @@
         padding: 10px 24px;
     }
 
+    #contact-section{
+        all:unset;
+        text-align: center;
+    }
+
     .bg-white .collapse.show {
         background: #fff;
     }
@@ -299,11 +304,10 @@
         padding-right: 30px;
     }
 
-
-
     .section{
         padding-top: 170px;
         margin-top: -115px;
+        margin-bottom: -20px;
     }
 
     #carousel-area .carousel-indicators{
@@ -394,6 +398,10 @@
         border: none !important;
     }
 
+    #carousel-area .carousel-item .carousel-caption h2 {
+        margin-bottom: 5px;
+    }
+
     .call-action .cta-trial h3 {
         font-size: 14px;
         line-height: 22px;
@@ -439,7 +447,7 @@
     }
 
     .contact-deatils {
-        margin-top: 30px;
+        margin-top: 90px;
     }
 
     .float-right {
