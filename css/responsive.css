@@ -1,4 +1,18 @@
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (min-width: 767px) {
+    .paragraphs {
+        font-size: 18px;
+    }
+
+    .featured-box .featured-content p {
+        font-size: 18px;
+    }
+
+    .contact-info p {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 1024px) {
     .section-header .section-title {
         font-size: 22px;
     }
@@ -465,7 +479,7 @@
     }
 
     .contact-deatils {
-        margin-top: 80px;
+        margin-top: 60px;
     }
 
     .float-right {
