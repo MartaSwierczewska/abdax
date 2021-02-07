@@ -150,6 +150,7 @@
     .section-header span {
         font-size: 50px;
     }
+
     .navbar-brand img {
         max-width: 150px;
     }
@@ -500,6 +501,10 @@
 @media (max-width: 410px) {
     .section-header {
         margin-bottom: 10px;
+    }
+
+    .no-image {
+        margin-left: 15px;
     }
 }
 

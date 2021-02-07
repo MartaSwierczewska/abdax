@@ -846,7 +846,7 @@ button:focus {
 
 /* Services Item */
 
-.titles{
+.titles {
     font-size: 20px;
     font-weight: bold;
 }
@@ -1086,6 +1086,13 @@ button:focus {
     top: 0px;
     left: 50px;
     width: 100%;
+}
+
+.sub-item-box .icon-o {
+    font-size: 20px;
+    color: #e74c3c;
+    font-weight: 300;
+    position: absolute;
 }
 
 .featured-box .featured-content h4 {
@@ -1639,7 +1646,7 @@ footer .menu li a:hover {
     text-align: center;
 }
 
-.logo{
+.logo {
     height: 70px;
     max-width: 200px !important;
 }
