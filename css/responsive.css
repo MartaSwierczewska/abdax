@@ -150,6 +150,9 @@
     .section-header span {
         font-size: 50px;
     }
+    .navbar-brand img {
+        max-width: 150px;
+    }
 }
 
 
@@ -157,10 +160,6 @@
 
     .controls .btn {
         padding: 10px 24px;
-    }
-
-    .navbar-brand img {
-        max-width: 190px;
     }
 
     #contact-section {
@@ -335,10 +334,20 @@
         padding-right: 30px;
     }
 
+    .instalacje {
+        max-height: 80px;
+        max-width: 100px;
+    }
+
     .section {
         padding-top: 170px;
         margin-top: -125px;
         margin-bottom: -35px;
+    }
+
+    .logo {
+        height: 60px;
+        max-width: 200px !important;
     }
 
     #carousel-area .carousel-indicators {
@@ -347,6 +356,7 @@
 
     .info {
         font-size: 13px !important;
+        margin-left: 30px;
     }
 
     .bg-white .collapse.show {
