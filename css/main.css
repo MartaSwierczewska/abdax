@@ -578,7 +578,6 @@ button:focus {
     margin-left: 30px;
     position: relative;
 }
-
 .info {
     color: #fff;
     font-size: 15px;
@@ -1269,6 +1268,10 @@ textarea {
 
 .contact-info {
     margin-bottom: 30px;
+}
+
+.company-name{
+    color: #394b53;
 }
 
 .contact-info i {
