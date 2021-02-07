@@ -1283,7 +1283,7 @@ textarea {
     margin-top: 5px;
     font-size: 18px;
     font-weight: 500;
-    padding-left: 10px;
+    margin-left: 0px;
 }
 
 .contact-info p {
