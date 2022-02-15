@@ -154,6 +154,10 @@
     .navbar-brand img {
         max-width: 150px;
     }
+
+    #subscribe .sub-item-box {
+        padding: 20px;
+    }
 }
 
 
@@ -170,7 +174,7 @@
 
     .bg-white .collapse.show {
         background: #fff;
-        box-shadow: 0px 10px 50px 0px rgba(84, 110, 122, 0.35);
+        box-shadow: 0 10px 50px 0 rgba(84, 110, 122, 0.35);
     }
 
     .navbar-toggleable-sm > .container {
@@ -312,7 +316,7 @@
     }
 
     .table-left {
-        margin: 0px 0px;
+        margin: 0 0;
     }
 
     .counters .facts-item {
@@ -383,7 +387,7 @@
         padding: 5px 12px;
         text-align: center;
         margin-bottom: 3px;
-        margin-left: 0px;
+        margin-left: 0;
     }
 
     .mainmenu-area .menu-button {
@@ -548,7 +552,7 @@
 @media (max-width: 280px) {
     .info {
         font-size: 11px !important;
-        margin-left: 0px;
+        margin-left: 0;
     }
 
     .logo {
